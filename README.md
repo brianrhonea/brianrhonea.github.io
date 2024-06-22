@@ -1,7 +1,7 @@
 # Data Scientist
 
-### Tehcnical Skills: SQL, Python, R, Excel, Power BI, Tablaeu
-## Currently buidling skills on: AWS, Snowflake, MATLAB
+## Tehcnical Skills: SQL, Python, R, Excel, Power BI, Tablaeu
+### Currently buidling skills on: AWS, Snowflake, MATLAB
 
 ### Education
 - Masters in Business Analytics and Artifical Intelligence | University of Texas at Dallas (_December 2024_)
